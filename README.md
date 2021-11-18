@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Szabó Bence Zsigmond.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning PHP.
+- 📫 How to reach me: https://szabezsi.github.io/
